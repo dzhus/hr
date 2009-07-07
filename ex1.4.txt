@@ -1,0 +1,2 @@
+No, because if $k^2$ equals $n$ then $k$ divides $n$, so we hit the
+first condition.
