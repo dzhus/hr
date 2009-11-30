@@ -5,5 +5,5 @@ where
 removeFst :: Int -> [Int] -> [Int]
 
 removeFst x [] = []
-removeFst x (y:xs) | x == y = xs
-                   | otherwise = y : removeFst x xs
+removeFst x (y:ys) | x == y = ys
+                   | otherwise = y : removeFst x ys
