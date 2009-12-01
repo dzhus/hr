@@ -1,4 +1,4 @@
-module BLOWUP
+module Blowup
 
 where
 

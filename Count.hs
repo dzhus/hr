@@ -1,4 +1,4 @@
-module COUNT
+module Count
 
 where
 

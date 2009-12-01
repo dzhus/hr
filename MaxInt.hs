@@ -1,4 +1,4 @@
-module MAXINT
+module MaxInt
 
 where
 
