@@ -1,3 +1,5 @@
+-- Ex. 1.9
+
 module MaxInt
 
 where

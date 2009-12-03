@@ -1,3 +1,5 @@
+-- Ex. 1.14
+
 module Blowup
 
 where

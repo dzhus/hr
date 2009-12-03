@@ -1,3 +1,5 @@
+-- Ex. 1.10
+
 module RemoveFst
 
 where
