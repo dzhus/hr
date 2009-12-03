@@ -11,7 +11,7 @@ fFalse p = False
 
 test1a = logEquiv1 (\ p -> not True) fFalse
 test1b = logEquiv1 (\ p -> not False) fTrue
-test2 = logEquiv1 (\ p -> p ==> False) (\ p -> not p)
+test2 = logEquiv1 (\ p -> p ==> False) not
 test3a = logEquiv1 (\ p -> p || True) fTrue
 test3b = logEquiv1 (\ p -> p && False) fFalse
 test4a = logEquiv1 (\ p -> p || False) id
