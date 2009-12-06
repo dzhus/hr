@@ -1,3 +1,5 @@
+-- Ex. 2.52
+
 module Parity
 
 where
