@@ -1,0 +1,13 @@
+To show that formulas are not equivalent, consider any A and take its
+characteristic function for F(x) (F(x) iff x is in A).
+
+Example: 
+Domain: naturals.
+A: even naturals.
+F(x): x is even
+
+There're naturals which do not belong to A and are not even, thus the
+first formula holds.
+
+For all naturals in A, F(x) holds, thus the second formula does not
+hold.

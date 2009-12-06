@@ -1,0 +1,13 @@
+To show that formulas are not equivalent, consider any domain of x for
+which F(x) doesn't hold, and take any subset of this domain for A.
+
+Example: 
+Domain: even naturals.
+A: {2}.
+F(x): x is prime.
+
+There's no such even number which is prime and belongs to {2}, thus
+the first formula holds.
+
+There's no such even number which is not 2 but is prime, thus the
+second formula does not hold.
