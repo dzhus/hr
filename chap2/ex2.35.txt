@@ -1,0 +1,2 @@
+1. ∃x(K(x) ∧ ∀y(K(y) ⇒ (y=x)) ∧ ¬Raging(x))
+2. ∃x(K(x) ∧ ∀y(K(y) ⇒ (y=x)) ∧ ({ z | S(z, x)} ⇒ L(z, x)))

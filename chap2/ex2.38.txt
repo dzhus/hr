@@ -1,0 +1,13 @@
+-*-org-*-
+
+|   | a                  | b              | c     | d                       | e             | f             |
+|---+--------------------+----------------+-------+-------------------------+---------------+---------------|
+| 1 | Negative reals     | -              | -     | -                       | -             | -             |
+| 2 | Reals              | Positive reals | Reals | Non-negative reals      | Men with kids | Loving people |
+| 4 | Non-positive reals | -              | -     | -                       | God? :-)      | -             |
+| 5 | Reals              | Positive reals | -     | Positive reals except 1 | Men with kids | *See below*   |
+
+Formula 5 requires the existence of y so that xRy but not xRx. Thus 5f
+is satisfied for x which are loving people who don't love themselves
+and don't love any person which loves the beloved of x. In other
+words, love triangles are prohibited.
