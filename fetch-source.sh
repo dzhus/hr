@@ -12,3 +12,4 @@ function fetch ()
 
 fetch GS.hs chap1
 fetch TAMO.hs chap2
+fetch TUOLP.hs chap3
