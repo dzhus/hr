@@ -15,4 +15,4 @@ checkForN n = prime ((product (takeWhile (<n) primes)) + 1)
 conjecture = and (map checkForN primes)
 
 -- Get first (prime) n for which the conjecture doesn't hold
-counterexample = take 1 (filter (\p -> not (checkForN n)) primes)
+counterexample = take 1 (filter (\p -> not (checkForN p)) primes)
