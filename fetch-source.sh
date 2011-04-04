@@ -14,3 +14,4 @@ fetch GS.hs chap1
 fetch TAMO.hs chap2
 fetch TAMO.hs chap3
 fetch TUOLP.hs chap3
+fetch SetEq.hs chap4
